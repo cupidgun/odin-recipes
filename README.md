@@ -1,2 +1,2 @@
 # odin-recipes
-building a recipe website with the html skills i've learned. demonstrate that i know how to insert bold text, italics, links, and images. will also demonstrate ability to commit to github.
+building a recipe website with the html skills i've learned. demonstrate that i know how to insert bold text, italics, links, and images. will also demonstrate ability to commit to github, along with proper commit messages.
